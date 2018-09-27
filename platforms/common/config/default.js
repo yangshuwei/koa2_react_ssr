@@ -1,8 +1,10 @@
-/**
- * Created at 16/4/11.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:04:59 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:04:59 
  */
+
 import path from 'path'
 
 const rootPath = path.join(__dirname, '../../..')

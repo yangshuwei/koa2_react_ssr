@@ -1,3 +1,9 @@
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:04:11 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:04:11 
+ */
 import React, { Component } from 'react'
 import { Link } from 'react-router'
 import { connect } from 'react-redux'

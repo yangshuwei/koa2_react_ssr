@@ -1,8 +1,10 @@
-/**
- * Created at 16/5/16.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:04:17 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:04:17 
  */
+
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import Counter from '../components/Counter'

@@ -1,8 +1,10 @@
-/**
- * Created at 16/5/16.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:03:31 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:03:31 
  */
+
 export const INCREMENT_COUNTER = 'INCREMENT_COUNTER'
 export const DECREMENT_COUNTER = 'DECREMENT_COUNTER'
 

@@ -1,8 +1,10 @@
-/**
- * Created at 16/4/11.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:05:03 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:05:03 
  */
+
 import fs from 'fs'
 import lodash, { isPlainObject, defaultsDeep } from 'lodash'
 import defaultConfig from './default'

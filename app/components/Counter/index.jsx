@@ -1,8 +1,10 @@
-/**
- * Created at 16/5/16.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:03:44 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:03:44 
  */
+
 import React, { Component, PropTypes } from 'react'
 
 export default class Counter extends Component {

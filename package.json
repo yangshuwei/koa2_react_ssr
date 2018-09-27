@@ -1,7 +1,7 @@
 {
   "name": "koa2-react-isomorphic-boilerplate",
-  "version": "0.2.2",
-  "author": "wssgcg1213",
+  "version": "1.0.0",
+  "author": "yangshuwei",
   "scripts": {
     "start": "node bin/development.js",
     "production": "node bin/production.js",

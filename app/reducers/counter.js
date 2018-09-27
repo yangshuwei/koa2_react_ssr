@@ -1,8 +1,10 @@
-/**
- * Created at 16/5/17.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:04:25 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:04:25 
  */
+
 import { INCREMENT_COUNTER, DECREMENT_COUNTER } from '../actions/counter'
 
 export default function counter(state = 0, action) {

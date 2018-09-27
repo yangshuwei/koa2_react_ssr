@@ -1,8 +1,10 @@
-/**
- * Created at 16/5/20.
- * @Author Ling.
- * @Email i@zeroling.com
+/*
+ * @Author: yangshuwei 
+ * @Date: 2018-09-27 11:05:11 
+ * @Last Modified by:   yangshuwei 
+ * @Last Modified time: 2018-09-27 11:05:11 
  */
+
 import React from 'react'
 import { RouterContext } from 'react-router'
 import { renderToString } from 'react-dom/server'

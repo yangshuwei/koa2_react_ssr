@@ -7,7 +7,7 @@ keywords: koa2,react,redux,isomorphic app
 ## Getting Start in dev mode
 
 ```
-git clone https://github.com/wssgcg1213/koa2-react-isomorphic-boilerplate
+git clone https://github.com/yangshuwei/koa2_react_ssr
 cd koa2-react-isomorphic-boilerplate
 npm install # 国内可以使用 cnpm 加速, 教育网可使用 rednpm (https://npm.mirror.cqupt.edu.cn)加速
 npm start  # dev mode
